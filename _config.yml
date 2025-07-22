@@ -1,0 +1,6 @@
+title: מרכז המדריכים של אמיר
+theme: minima
+markdown: kramdown
+remote_theme: pages-themes/slate
+plugins:
+  - jekyll-remote-theme
